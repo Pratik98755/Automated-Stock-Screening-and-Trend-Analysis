@@ -1,6 +1,6 @@
 <h2> Automated Stock Screening and Trend Analysis :  </h2>
 A Python-based toolkit designed for automated financial data retrieval, symbol management, and trend analysis for stock market data. <br> <br>  
-<h3>🚀 Features  </h3>  <br>
+<h3>🚀 Features  </h3>  
 Automated Data Processing (data_dw.py, finder.py): Efficiently fetches and manages financial symbols and datasets.  
 Trend Analysis (trend_liner.py): Computes trend lines, technical indicators, and price momentum.  
 Core Execution Engine (mainv2.py): The primary, upgraded execution pipeline for running analysis workflows.  
