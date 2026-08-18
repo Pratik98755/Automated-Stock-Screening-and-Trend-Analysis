@@ -1,0 +1,7 @@
+main.py
+support_plots/
+symbols_ohlcv/
+trendline_logs/
+trendlined_symbols/
+__pycache__/
+*.__pycache__
