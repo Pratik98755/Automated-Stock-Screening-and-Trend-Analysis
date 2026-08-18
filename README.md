@@ -6,7 +6,7 @@ Trend Analysis (trend_liner.py): Computes trend lines, technical indicators, and
 Core Execution Engine (mainv2.py): The primary, upgraded execution pipeline for running analysis workflows.  
 Batch Automation (run_all.bat): Convenient Windows batch script to orchestrate and execute the full analysis pipeline seamlessly.  <br>
 <br>
-📁 Project Structure   <br>
+<h3>📁 Project Structure </h3>  <br>
 ├── finder.py         # Symbol and asset discovery module  <br>
 ├── data_dw.py        # Data downloader and warehouse handler  <br>
 ├── trend_liner.py    # Technical analysis and trend detection engine  <br>
@@ -14,17 +14,18 @@ Batch Automation (run_all.bat): Convenient Windows batch script to orchestrate a
 ├── run_all.bat       # Windows batch script for automated runs  <br>
 ├── input_symbols.txt # Configuration list of trading symbols  <br>
 └── .gitignore        # Git ignore rules
+<br>
 
-⚙️ Installation & Prerequisites
+<h3>⚙️ Installation & Prerequisites </h3>
 Python 3.x installed on your system.
 Required Python libraries:  pip install pandas numpy requests
 
 
-🏃 UsageRunning via Batch Script (Windows) 
+<h3>🏃 UsageRunning via Batch Script (Windows) </h3>
 Execute run_all.bat from your command prompt or double-click it to run the complete pipeline: run_all.bat
 Running Manually via PythonTo run the primary analysis pipeline using the active script: python mainv2.py
 
 🛠️ ConfigurationModify input_symbols.txt to add or update the stock symbols and assets you want to track and analyze.
 
-📄 License
+<h3>📄 License</h3>
 This project is open-source and available for personal and educational use.
