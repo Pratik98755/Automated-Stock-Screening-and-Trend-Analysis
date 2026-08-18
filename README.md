@@ -6,7 +6,7 @@ Trend Analysis (trend_liner.py): Computes trend lines, technical indicators, and
 Core Execution Engine (mainv2.py): The primary, upgraded execution pipeline for running analysis workflows.  
 Batch Automation (run_all.bat): Convenient Windows batch script to orchestrate and execute the full analysis pipeline seamlessly.  <br>
 <br>
-<h3>📁 Project Structure </h3>  <br>
+<h3>📁 Project Structure </h3>  
 ├── finder.py         # Symbol and asset discovery module  <br>
 ├── data_dw.py        # Data downloader and warehouse handler  <br>
 ├── trend_liner.py    # Technical analysis and trend detection engine  <br>
